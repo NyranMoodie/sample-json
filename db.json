@@ -1,16 +1,16 @@
 [
-  {
-    id: 1,
-    firstName: 'Nyran',
-    lastName: 'Moodie',
-    email: 'test@test.com',
-    role: 'Reviewer'
-  },
-    {
-    id: 2,
-    firstName: 'Ryan',
-    lastName: 'Jones',
-    email: 'test2@test.com',
-    role: 'Minister'
-  }
+   {
+      "id":1,
+      "firstName":"Nyran",
+      "lastName":"Moodie",
+      "email":"test@test.com",
+      "role":"Reviewer"
+   },
+   {
+      "id":2,
+      "firstName":"Ryan",
+      "lastName":"Jones",
+      "email":"test2@test.com",
+      "role":"Minister"
+   }
 ]
